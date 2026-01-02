@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research portfolio, please cite it as below."
+authors:
+  - family-names: Azad
+    given-names: Kumar
+    affiliation: "Research Scholar, Physics"
+title: "Comprehensive Research Portfolio: Quantum Mechanics, Attosecond Physics, and Computational Methods"
+date-released: 2025-01-02
+version: 1.0.0
+type: software
+license: MIT
+url: "https://github.com/KrAzad0/research-portfolio"
+repository-code: "https://github.com/KrAzad0/research-portfolio"
+keywords:
+  - "quantum mechanics"
+  - "attosecond physics"
+  - "computational methods"
+  - "research portfolio"
+  - "machine learning"
+  - "mathematical physics"
+  - "laser-atom interactions"
+abstract: "Comprehensive research portfolio spanning quantum mechanics theory, attosecond laser-atom physics, mathematical physics, and machine learning applications to physics problems. All work follows best practices in scientific reproducibility with proper citation metadata and comprehensive documentation."
